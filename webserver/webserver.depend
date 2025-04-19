@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1745076953 source:d:\repos\webserver-c\webserver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+
